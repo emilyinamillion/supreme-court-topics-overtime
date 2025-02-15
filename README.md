@@ -1,6 +1,6 @@
 ## Supreme Court Topics Over Time
 
-This is a project by @emilyinamillion that utilizes topic modeling with Non Negative Matrix factorization (python) and has an accompanying D3.js visualization. Read the blog post [here](http://www.emilyinamillion.me/blog/2016/7/13/visualizing-supreme-court-topics-over-time)!
+This is a project by @emilyinamillion that utilizes topic modeling with Non Negative Matrix factorization (python) and has an accompanying D3.js visualization. 
 
 If you came here for the topic modeling, [one of my ipython notebooks](https://github.com/emilyinamillion/supreme-court-topics-overtime/blob/master/pipeline/Step4_pipeline_Model-testing.ipynb) walks through the other algorithms I tried as well as my reasoning for why I settled on NMF.
 
