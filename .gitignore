@@ -1,0 +1,4 @@
+local/
+data/
+.DS_Store
+pipeline/.ipynb_checkpoints/
