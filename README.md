@@ -7,3 +7,18 @@ If you came here for the topic modeling, [one of my ipython notebooks](https://g
 If you came here for the D3.js, the visualization folder is the entire contents of the live D3.js visualization currently available on Bl.ocks. The visualization lives [here](https://emilyinamillion.me/supreme-court-topics-visualization/index.html).
 
 :v:
+
+
+Quickstart 
+
+```
+# Create the conda environment from the file
+conda env create -f environment.yml
+
+# Activate the environment
+conda activate supreme-court-topics
+
+# Download required NLTK data and spaCy model
+python -c "import nltk; nltk.download('stopwords'); nltk.download('names')"
+python -m spacy download en_core_web_sm
+```
